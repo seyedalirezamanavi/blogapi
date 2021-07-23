@@ -1,1 +1,1 @@
-gunicorn config.wsgi --log-file - 
+gunicorn blogapi.wsgi --log-file - 
